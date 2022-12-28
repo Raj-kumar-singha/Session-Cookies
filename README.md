@@ -8,6 +8,7 @@ response back to the client ad store Cookie.
 ![Session & Cookies Function](https://www.freecodecamp.org/news/content/images/2021/02/fireship-cookies.png)
 
 
+
 ## Lessons Learned
 
 When I did this project that's time I learned about JavaScript, NodeJs,
@@ -19,8 +20,6 @@ When I did this project that's time I learned about JavaScript, NodeJs,
 #### Difference B/W Session and Cookies: -
 ![Session and Cookies Difference](https://i2.wp.com/pediaa.com/wp-content/uploads/2018/09/Difference-Between-Session-and-Cookies-Comparison-Summary.jpg?resize=475%2C759)
 
-![Object Mapping between Node and MongoDB managed via Mongoose](https://afteracademy.com/images/mastering-mongoose-for-mongodb-and-node-js-mongoose-diagram-77560014632570f4.png)
-Object Mapping between Node and MongoDB managed via Mongoose
 
 
 ##  Websites
